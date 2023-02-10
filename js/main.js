@@ -1,4 +1,4 @@
-/*<![CDATA[*/function _0x5c10() {
+function _0x5c10() {
     var a = ['.dtAdB', 'aIDwvYT4=', 'insertBefore', 'js/addt.js', '618DXeYAa', 'tag2', '406186HHhbhG', 'getAttribute', 'tIc', 'aRel', 'atr1', 'acmVtb3Rl', 'firebase', 'css/bkm.css', 'length', 'gts-js', 'js/aRel.js', 'cls3', 'classList', 'aIGNsYXNzPSI=', 'ab3Blbg==', '1167LMWgeB', 'body', 'js/abp.js', 'defer', 'scroll', 'itx2', 'css/abp.css', 'abp-css', 'click', 'undefined', 'fNtf', 'act2', 'aaW5zZXJ0QWRqYWNlbnRIVE1M', 'aY2xhc3NMaXN0', 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=', 'atr3', 'lib/hl-11.5.1.js', '#header-icon .headIc', 'createElement', 'gts-css', 'pPvNx', 'acGFyc2U=', 'lib/vue-2.6.11.js', 'insertAdjacentHTML', 'aZ2V0QXR0cmlidXRl', 'acmVwbGFjZQ==', 'antiAdBlock', 'adSense', '<span class=\"cls\"></span>', 'addEventListener', 'ac2V0QXR0cmlidXRl', 'url1', '</div>', 'aIHN0eWxlPSI=', '<li id=\"google_translate_element\"/>', 'abc-js', '<div class=\"dtAdB\">', 'abGVuZ3Ro', 'css/gts.css', 'data-text', 'src', 'getElementsByTagName', 'AudioBookPlayer', 'aX2JsYW5r', '7288GeapsP', 'document', 'js/bkm.js', 'aY2xpY2s=', 'class', 'aZmluZEluZGV4', 'propertyID', 'tag1', 'afterbegin', 'publisherId', 'cls2', 'crossorigin', 'pre', 'acXVlcnlTZWxlY3RvckFsbA==', 'forEach', 'aSWxmOGgzMzVILXpwV0owMVNSTGtDbkw3OA==', 'scrollTop', 'addt-js', 'antiBoomClick', 'js/pPvNx.js', 'gTranslate', 'replace', 'bkm-js', '232UAHKod', '1277370UfDbLS', 'pPvNx-js', 'addt-css', 'aQ1dNSzA2bWZpazVIZUpJcnFlRS0=', 'url2', 'setAttribute', 'aeGlk', 'tmo3', 'js/abc.js', 'fbd-js', 'bkm-css', 'contains', 'act1', 'icon', 'title', 'async', 'aYWRtQ2s=', 'loadType', 'documentElement', '10583830AuvIDm', 'itx3', 'aIDxhIHRhcmdldD0iX2JsYW5rIiBocmVmPSI=', 'href', 'vue-js', 'hl-js', 'aaW5uZXJIVE1M', 'aRel-js', 'close', 'cls1', 'bookmark', 'enable', '#fNtf .cls', 'text', '3521dYcUbc', 'aU1FDa3hGVThJV0EvZXhlYw==', 'aQUtmeWNieUhyb3BQeXhuTVBf', 'tmo1', 'aZ0Fq', '<h5>', '</h5>', 'itx1', 'aYWRkRXZlbnRMaXN0ZW5lcg==', 'css/addt.css', 'css1', 'css3', 'atr2', 'abG9jYXRpb24=', 'goog-te-gadget-simple', '48405SvnFIE', 'lib/gts.js', 'parentElement', 'pre.hljs', 'tmo2', 'analytics-js', 'js/fbd.js', 'anonymous', 'abp-js', 'hidden', 'aaHR0cHM6Ly9zY3JpcHQuZ29vZ2xlLmNvbS9tYWNyb3Mvcy8=', 'url3', 'highlightElement', 'lazy', '717993oHdZxV', 'https://www.googletagmanager.com/gtag/js?id=', 'css2', 'analytics', 'tag3', 'ac3R5bGU=', 'aYWRk', 'onerror', 'act3', 'script', 'afterend', 'active', 'parentNode'];
     _0x5c10 = function () {
         return a
@@ -28,6 +28,21 @@ var _0x5adb26 = _0x1052;
         }
     }
 }(_0x5c10, 0x8e237));
+
+function _0x36a0() {  
+    _0x36a0 = function () {
+        return _0x115a81
+    };
+    return _0x36a0()
+}
+if (_0x5adb26(0x11c) != typeof xAo) {
+    function adBLockD() {
+        var b = _0x5adb26;
+        fixedNotif(b(0x137) + ARtb[b(0x12d)][b(0xc0)] + b(0xd9) + ARtb[b(0x12d)][b(0xc1)] + b(0xda) + ARtb[b(0x12d)][b(0xd3)] + b(0x133)), 0x1 == ARtb[b(0x12d)][b(0xce)] && (qSel(b(0xfe))[b(0x12a)](b(0xfb), b(0x12f)), qSel(b(0xd2))[b(0x130)](b(0x11b), function () {
+            var a = b;
+            addCt(getid(a(0x11d)), a(0xec))
+        }))
+    }
 
     function ld_Adsense() {
         var b = _0x5adb26,
@@ -299,4 +314,4 @@ function _0x91a0(_0x5974fd, _0x13d2be) {
 }(_0x36a0, 0x8ac20), ((() => {
     var _0x2c7694 = _0x91a0;
     alert(_0x2c7694(0xea)), document[_0x2c7694(0xe7)]['innerHTML'] = '', document[_0x2c7694(0xf2)]('body')[_0x2c7694(0xe6)](_0x2c7694(0xed), _0x2c7694(0xec))
-})()));/*]]>*/
+})()));
