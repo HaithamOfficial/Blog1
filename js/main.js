@@ -26,7 +26,6 @@ var kurosh = jereme;
   }
 }(wellsley, 582199));
 function jearld() {
-  var marialisa = ["body", "72UHVPLu", "103077DiXDqL", "Contact admin to purchase Premium Version and License Key.", "2trChTw", '<a target="_blank" href="#" style="position:fixed;top:0;left:0;width:100%;height:100%;display:flex;justify-content:center;align-items:center;background:#000;color:#fff;font-size:27px;font-weight:700;z-index:999;animation:nudge .7s 0s infinite;">APMODY by Aruf </a>', "beforebegin", "43162HFnvWr", "1268648eRTgra", "21396apsyDF", "32605iNjrPA", "querySelector", "570pxHFaE", "6YquVoV", "882637EsogvT", "6567puvMkg", "551032qMIexR", "5954dAUyhs", "570VeCgcn", "insertAdjacentHTML"];
   jearld = function () {
     return marialisa;
   };
